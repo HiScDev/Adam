@@ -1,2 +1,2 @@
-# Adam
-Dev
+Hey iam adam 
+And i Dev!
